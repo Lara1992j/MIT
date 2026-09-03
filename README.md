@@ -6,11 +6,4 @@ __pycache__/
 venv/
 .idea/
 .vscode/
-aafrfc_
-rrefddefc
-weesx
-wewewds
-wescvhgnbvc
-ftnsdef
-yyyyy
-rere
+aafrfc
