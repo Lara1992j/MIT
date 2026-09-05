@@ -8,3 +8,4 @@ venv/
 .vscode/
 aafrfc
 ewrd
+ytyhgsv
