@@ -9,3 +9,4 @@ venv/
 aafrfc
 ewrd
 ytuhgfdfv
+tymnfdsasderthv
